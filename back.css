@@ -1,0 +1,35 @@
+.box{
+    height:0px !important;
+    width:500px !important;
+    align-items: center;
+}
+.h1{
+    margin-left: 90px !important;
+    color:rgb(10, 0, 0) !important;
+    font-size: 20px;
+}
+body{
+   background-color:rgb(245, 250, 249) !important;
+
+}
+.main{
+    margin: auto !important;
+   
+    margin-left: 80px !important;
+    
+    text-transform: uppercase !important;
+    font-size: 30px !important;
+    color: #000380 !important;
+}
+.num{
+   margin-left: 80px !important;
+    color: #08a3d9 !important;
+    text-transform: uppercase !important;
+    font-size: 30px !important;
+    color: #000380 !important;
+}
+.img{
+    border-radius: 10% !important;
+    margin-bottom: 5px !important;
+    
+}
